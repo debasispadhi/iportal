@@ -1,4 +1,4 @@
-package com.das.spring.aspect;
+package com.iportal.controller.aspect;
 
 import org.apache.log4j.Logger;
 import org.aspectj.lang.ProceedingJoinPoint;
